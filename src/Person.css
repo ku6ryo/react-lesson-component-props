@@ -1,0 +1,12 @@
+.person {
+  margin-bottom: 8px;
+}
+
+.person .section .label {
+  display: inline-block; 
+  font-weight: bold;
+}
+
+.person .section .value {
+  display: inline-block; 
+}
