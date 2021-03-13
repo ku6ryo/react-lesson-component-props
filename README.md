@@ -3,6 +3,13 @@
 
 src/App.js に Person というコンポーネントを使って、Bob と Michael の名前を表示している例があります。Person コンポーネントは Person.js と Person.css で構成されています
 
+# コードの動かし方
+以下のコマンドを実行してください。ブラウザで localhost:3000 にアクセスするとコンテンツがみれます。
+```
+yarn
+yarn start
+```
+
 # 問題
 ## 1
 Anna という新しい人の情報を表示してみてください。Anna の年齢は 22 歳とします。
